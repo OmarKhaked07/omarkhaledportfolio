@@ -22,13 +22,15 @@
 
 .formcarry-container {
   /* container */
-  --c-width: 50%;
-  --c-max-width: 500px;
 
-  width: var(--c-width);
-  max-width: var(--c-max-width);
   display: block;
-  margin: 5vh auto 0 auto;
+  margin: 0px 200px 30px 200px;
+}
+
+@media screen and (max-width: 600px) {
+  div.formcarry-container {
+    margin: 0px;
+  }
 }
 
 .formcarry-form label {
