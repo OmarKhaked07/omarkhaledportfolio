@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.bg {
+  background-color: #2C3E50;
+}
+
+.navbar {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  z-index: 1000;
+}
+
+.navbar-toggle:focus {
+  box-shadow: none;
+}
+
+nav .nav-item a:hover {
+  color: #1ABC9C !important
+}

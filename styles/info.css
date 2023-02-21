@@ -1,0 +1,14 @@
+.info {
+  padding-top: 170px;
+  padding-bottom: 70px;
+  background-color: #1ABC9C;
+}
+
+.info-avatar {
+  border-radius: 25% 25% 25% 25%;
+  width: 240px;
+}
+
+.info-container {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,19 @@
+.skills {
+  padding: 40px;
+  background-color: #1ABC9C
+}
+
+.skill-title {
+  color: #2C3E50 !important
+}
+
+.section-skills-title {
+  font-size: 50px;
+  color: #2C3E50 !important
+}
+
+hr {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 55px;
+}

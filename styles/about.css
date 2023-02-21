@@ -1,0 +1,14 @@
+.about p {
+  font-size: 30px;
+}
+
+.about {
+  padding: 30px;
+  padding-bottom: 170px;
+  background-color: white;
+}
+
+.about h2 {
+  padding: 70px;
+  font-size: 45px;
+}
