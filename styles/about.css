@@ -1,10 +1,11 @@
 .about p {
   font-size: 30px;
+  margin-bottom: 90px;
 }
 
 .about {
-  padding: 30px;
-  padding-bottom: 170px;
+  padding: 40px;
+  padding-bottom: 100px;
   background-color: white;
 }
 
